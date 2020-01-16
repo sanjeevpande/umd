@@ -8,6 +8,8 @@
     "react-dom": "^16.8.6"
   },
   "dependencies": {
+    "@atlaskit/button": "^13.3.5",
+    "@atlaskit/inline-dialog": "^12.1.7",
     "babel-core": "6.26.0",
     "babel-eslint": "7.2.3",
     "babel-jest": "20.0.3",
